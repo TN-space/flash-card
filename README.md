@@ -4,7 +4,7 @@ A simple Flash Card app, built using vanilla JavaScript
 
 ### Functions:
 
-[The app](https://tn-space.github.io/speech-text-reader/)
+[The app](https://tn-space.github.io/flash-card/)
 
 The app has many typical functions:
 
